@@ -77,7 +77,42 @@ header {
   
   
   /* Estilos específicos para la sección "Contacto" */
-  #contacto {
+  /* Estilos específicos para la sección "Contacto" */
+#contacto {
     background-color: #f9f9f9;
+    padding: 20px;
   }
+  
+  .contact-info {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .contact-item {
+    width: 250px;
+    text-align: center;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .contact-item:hover {
+    transform: translateY(-5px);
+  }
+  
+  /* Estilos específicos para los elementos de contacto */
+  .phone {
+    background-color: #8bd3dd;
+    color: #fff;
+  }
+  
+  .email {
+    background-color: #f59e9e;
+    color: #fff;
+  }
+  
   
