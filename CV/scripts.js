@@ -27,7 +27,7 @@ document.querySelectorAll('nav li').forEach(navItem => {
   });
 
   function openCV() {
-    const cvUrl = 'https://github.com/andresalmeida/Desarrollo_Web_Avanzado_14956/blob/main/CV/multimedia/CV%20Andres%20Almeida.pdf';
+    const cvUrl = 'multimedia/CV Andres Almeida.pdf';
     window.open(cvUrl, '_blank');
   }
   
