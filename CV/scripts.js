@@ -27,7 +27,6 @@ document.querySelectorAll('nav li').forEach(navItem => {
   });
 
   function openCV() {
-    // Replace 'your_cv_url.pdf' with the actual URL of your CV file
     const cvUrl = 'https://github.com/andresalmeida/Desarrollo_Web_Avanzado_14956/blob/main/CV/multimedia/CV%20Andres%20Almeida.pdf';
     window.open(cvUrl, '_blank');
   }
