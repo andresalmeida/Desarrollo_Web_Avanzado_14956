@@ -26,16 +26,12 @@ document.querySelectorAll('nav li').forEach(navItem => {
     });
   });
 
-  function downloadCV() {
+  function openCV() {
     // Replace 'your_cv_url.pdf' with the actual URL of your CV file
-    const cvUrl = 'your_cv_url.pdf';
-    const link = document.createElement('a');
-    link.href = cvUrl;
-    link.setAttribute('download', 'tu_cv.pdf'); // Replace 'tu_cv.pdf' with your desired file name
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
+    const cvUrl = 'https://github.com/andresalmeida/Desarrollo_Web_Avanzado_14956/blob/main/CV/multimedia/CV%20Andres%20Almeida.pdf';
+    window.open(cvUrl, '_blank');
   }
+  
   
   
 
