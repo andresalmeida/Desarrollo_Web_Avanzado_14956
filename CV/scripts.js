@@ -13,6 +13,34 @@ document.querySelectorAll('nav li').forEach(navItem => {
     });
   });
 
+
+  // PARA LA SECCION SOBRE MI
+
+  document.querySelectorAll('.info-list li').forEach(item => {
+    item.addEventListener('mouseover', function () {
+      this.style.backgroundColor = '#f0f0f0';
+    });
+  
+    item.addEventListener('mouseout', function () {
+      this.style.backgroundColor = 'transparent';
+    });
+  });
+
+  function downloadCV() {
+    // Replace 'your_cv_url.pdf' with the actual URL of your CV file
+    const cvUrl = 'your_cv_url.pdf';
+    const link = document.createElement('a');
+    link.href = cvUrl;
+    link.setAttribute('download', 'tu_cv.pdf'); // Replace 'tu_cv.pdf' with your desired file name
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  }
+  
+  
+
+
+
   // PARA LA SECCION HABILIDADES 
 
   document.querySelectorAll('.skill-item').forEach(item => {
