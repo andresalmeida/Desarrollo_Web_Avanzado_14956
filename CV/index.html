@@ -2,8 +2,10 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Mi CV</title>
+  <title>Portafolio Personal Andres Almeida</title>
   <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Bungee&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
   <header>
@@ -14,7 +16,7 @@
         <li data-section="sobre-mi">Sobre Mí</li>
         <li data-section="habilidades">Habilidades</li>
         <li data-section="proyectos">Proyectos</li>
-        <li data-section="contacto">Contátame</li>
+        <li data-section="contacto">Contáctame</li>
       </ul>
     </nav>
   </header>
@@ -46,22 +48,27 @@
     </section>
     
     <section id="contacto" class="section">
-        <h2>Contacto</h2>
+        <h2 class="animated-heading">Contacto</h2>
         <div class="contact-info">
           <div class="contact-item phone">
-            <h3>Teléfono</h3>
-            <p>+1234567890</p>
+            <h3>Teléfono Celular</h3>
+            <p>+593 99 054 5539</p>
           </div>
           <div class="contact-item email">
             <h3>Email</h3>
-            <p>correo@example.com</p>
+            <button class="email-button" data-email="asalmeida4@espe.edu.ec">
+              <i class="fas fa-envelope"></i> asalmeida4@espe.edu.ec
+            </button>
           </div>
           <div class="contact-item email">
             <h3>Email 2</h3>
-            <p>otrocorreo@example.com</p>
+            <button class="email-button" data-email="almeidaandres12@gmail.com">
+              <i class="fas fa-envelope"></i> almeidaandres12@gmail.com
+            </button>
           </div>
         </div>
-    </section>
+      </section>
+      
   </main>
 
   <script src="scripts.js"></script>
