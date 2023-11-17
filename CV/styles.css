@@ -33,25 +33,86 @@ header {
   #sobre-mi {
     background-color: #f4f4f4;
   }
+
+
   
-  /* Estilos específicos para la sección "Habilidades" */
-  #habilidades ul {
-    list-style-type: none;
+  /* ESTILOS HABILIDADES */
+#habilidades {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    margin-top: 30px;
+  }
+  
+  #habilidades h2 {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 30px;
+    font-family: 'Bungee', cursive;
+    animation: fadeIn 1s ease-in-out;
+  }
+  
+  .skills-list {
+    list-style: none;
     padding: 0;
   }
   
-  #habilidades li {
-    background-color: #eee;
-    margin-bottom: 5px;
-    padding: 8px;
+  .skill-item {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
   }
   
-  /* Estilos específicos para la sección "Proyectos" */
-/* Estilos específicos para la sección "Proyectos" */
-#proyectos {
-    background-color: #f7f7f7;
-    padding: 20px;
+  .skill-item:hover {
+    transform: translateY(-5px);
   }
+  
+  .skill-preview {
+    padding: 15px;
+    cursor: pointer;
+    background-color: #92BB82;
+  }
+  
+  .skill-preview h3 {
+    margin: 0;
+    color: #333;
+  }
+  
+  .skill-details {
+    display: none;
+    padding: 15px;
+    background-color: #FAF6F1;
+    border-top: 1px solid #ccc;
+  }
+  
+  .skill-details p {
+    margin-bottom: 10px;
+  }
+  
+  .sub-skills {
+    margin-bottom: 15px;
+    padding-left: 20px;
+    list-style: square;
+  }
+  
+
+  
+/* ESTILOS PROYECTOS*/
+
+#proyectos {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    margin-top: 30px;
+    font-family: 'Bungee', cursive;
+    animation: fadeIn 1s ease-in-out;
+  }
+  
   
   /* Estilos para los elementos individuales de los proyectos */
   .project {
@@ -74,9 +135,59 @@ header {
     height: auto;
     margin-bottom: 5px;
   }
+
+  /* Styling for the project list */
+.project-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .project-item {
+    margin-bottom: 20px;
+    border: 1px solid #000000;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: height 0.3s ease-in-out;
+  }
+  
+  .project-preview {
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .project-preview:hover {
+    background-color: #F0FFBB;
+  }
+  
+  .project-details {
+    display: none;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .project-item.open {
+    height: auto;
+  }
+  
+  .project-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .project-button:hover {
+    background-color: #0056b3;
+  }
   
   
-  /* Estilos específicos para la sección "Contacto" */
+  
+  /* ESTILOS CONTACTOS */
   #contacto {
     background-color: #f9f9f9;
     padding: 20px;
@@ -159,6 +270,7 @@ header {
   .contact-item:hover {
     transform: scale(1.05);
   }
+  
 
 
   

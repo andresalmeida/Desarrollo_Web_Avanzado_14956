@@ -13,10 +13,45 @@ document.querySelectorAll('nav li').forEach(navItem => {
     });
   });
 
+  // PARA LA SECCION HABILIDADES 
+
+  document.querySelectorAll('.skill-item').forEach(item => {
+    item.querySelector('.skill-preview').addEventListener('click', function() {
+      const details = this.nextElementSibling;
+      const skillItem = this.parentNode;
+  
+      skillItem.classList.toggle('open');
+  
+      if (skillItem.classList.contains('open')) {
+        details.style.display = 'block';
+      } else {
+        details.style.display = 'none';
+      }
+    });
+  });
+
+  
+  // PARA LA SECCION PROYECTOS
+
+  document.querySelectorAll('.project-preview').forEach(preview => {
+    preview.addEventListener('click', function() {
+      const details = this.nextElementSibling;
+      const projectItem = this.parentNode;
+  
+      projectItem.classList.toggle('open');
+  
+      if (projectItem.classList.contains('open')) {
+        details.style.display = 'block';
+      } else {
+        details.style.display = 'none';
+      }
+    });
+  });
+  
 
 
 
-  // PARA LA SECCION CONTACTOS
+// PARA LA SECCION CONTACTOS
 
 // JavaScript for opening email when button is clicked
 
