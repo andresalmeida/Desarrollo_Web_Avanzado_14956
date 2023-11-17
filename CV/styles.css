@@ -49,6 +49,43 @@ h1.animated-header {
     padding: 20px;
     border: 1px solid #ccc;
   }
+
+
+  /* CSS para la sección "Inicio" */
+
+  #inicio  {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    margin-top: 30px;
+  }
+  
+  #inicio .photo img {
+    max-width: 20%;
+  }
+  
+  .animated-title {
+    font-family: 'Poppins', sans-serif;
+    font-size: 3em;
+    animation: fadeInLeft 1s ease-in-out;
+  }
+  
+  /* Animation keyframes */
+  @keyframes fadeInLeft {
+    0% {
+      opacity: 0;
+      transform: translateX(-20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  
+
+
+
   
   /* Estilos específicos para la sección "Sobre Mi" */
   #sobre-mi {
