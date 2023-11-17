@@ -1,10 +1,31 @@
 /* Estilos para el encabezado y la navegación */
+/* Custom font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+/* Header styles */
 header {
-    background-color: #333;
-    color: white;
-    padding: 20px;
-    text-align: center;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+h1.animated-header {
+  font-family: 'Poppins', sans-serif;
+  font-size: 3em;
+  animation: fadeInDown 1s ease-in-out;
+}
+
+/* Animation keyframes */
+@keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
   }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
   
   nav ul {
     list-style: none;
