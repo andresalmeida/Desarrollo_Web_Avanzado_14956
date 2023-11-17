@@ -1,0 +1,83 @@
+/* Estilos para el encabezado y la navegación */
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+    cursor: pointer;
+    transition: color 0.3s ease; /* Transición de color al pasar el mouse */
+  }
+  
+  nav ul li:hover {
+    text-decoration: underline;
+    color: #ffcc00; /* Cambio de color al pasar el mouse */
+  }
+  
+  /* Estilos para las secciones */
+  section {
+    margin: 50px 0;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  /* Estilos específicos para la sección "Sobre Mi" */
+  #sobre-mi {
+    background-color: #f4f4f4;
+  }
+  
+  /* Estilos específicos para la sección "Habilidades" */
+  #habilidades ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #habilidades li {
+    background-color: #eee;
+    margin-bottom: 5px;
+    padding: 8px;
+  }
+  
+  /* Estilos específicos para la sección "Proyectos" */
+/* Estilos específicos para la sección "Proyectos" */
+#proyectos {
+    background-color: #f7f7f7;
+    padding: 20px;
+  }
+  
+  /* Estilos para los elementos individuales de los proyectos */
+  .project {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .project h3 {
+    margin-top: 0;
+  }
+  
+  .project p {
+    margin-bottom: 5px;
+    font-style: italic;
+  }
+  
+  .project img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 5px;
+  }
+  
+  
+  /* Estilos específicos para la sección "Contacto" */
+  #contacto {
+    background-color: #f9f9f9;
+  }
+  
