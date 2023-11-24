@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\ActividadPracticaPOO\obj\Debug\net7.0\ActividadPracticaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\ActividadPracticaPOO\obj\Debug\net7.0\ActividadPracticaPOO.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\ActividadPracticaPOO\obj\Debug\net7.0\ActividadPracticaPOO.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\ActividadPracticaPOO\obj\Debug\net7.0\ActividadPracticaPOO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\ActividadPracticaPOO\bin\Debug\net7.0\ActividadPracticaPOO.exe
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\ActividadPracticaPOO\bin\Debug\net7.0\ActividadPracticaPOO.deps.json
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\ActividadPracticaPOO\bin\Debug\net7.0\ActividadPracticaPOO.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\ActividadPracticaPOO\bin\Debug\net7.0\ActividadPracticaPOO.dll
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\ActividadPracticaPOO\bin\Debug\net7.0\ActividadPracticaPOO.pdb
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\ActividadPracticaPOO\obj\Debug\net7.0\ActividadPracticaPOO.dll
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\ActividadPracticaPOO\obj\Debug\net7.0\refint\ActividadPracticaPOO.dll
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\ActividadPracticaPOO\obj\Debug\net7.0\ActividadPracticaPOO.pdb
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\ActividadPracticaPOO\obj\Debug\net7.0\ActividadPracticaPOO.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\ActividadPracticaPOO\obj\Debug\net7.0\ref\ActividadPracticaPOO.dll
