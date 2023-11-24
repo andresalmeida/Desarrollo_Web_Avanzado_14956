@@ -46,6 +46,17 @@ Se pueden ingresar datos para empleados (empleados) o gerentes (gerentes), almac
 - `Gerente.cs`: Define la clase `Gerente`.
 - `IMostrarInformacion.cs`: Define la interfaz `IMostrarInformacion`.
 
+## Desarrollado en .NET 7.0 y Ejecución con Docker en Linux o MacOS
+
+- Este proyecto está desarrollado en .NET 7.0, lo que garantiza la compatibilidad y el uso de las últimas características y mejoras en el lenguaje de programación C# y la plataforma .NET.
+
+## Ejecución con Docker
+
+- Si estás trabajando en un entorno Linux o MacOS y prefieres ejecutar la aplicación utilizando Docker para C#, puedes hacerlo siguiendo estos pasos:
+  
+  - Asegúrate de tener Docker instalado en tu sistema.
+  - Ejecuta los comandos de Docker para construir y ejecutar la aplicación C#.
+
 ## Ejecución de la Aplicación
 
 - Compila el código fuente proporcionado o ábrelo en un entorno de desarrollo de C#.
