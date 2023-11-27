@@ -49,10 +49,10 @@ TiendaMusicaApp es una aplicación ASP .NET Core con Modelo Vista Controlador (M
 1. **Ejecución del Proyecto**
 
    - Abrir el proyecto en Visual Studio 2022.
-   - Configurar la conexión a la base de datos en el archivo `appsettings.json`, añadimos esta línea en nuestro código:
+   - Configurar la conexión a la base de datos en el archivo `appsettings.json`, añadimos esta línea en nuestro código (reemplazando `server=SERVER_NAME` con el nombre del servidor de tu PC):
   
      ```
-     "conexion": "server=DESKTOP-9QK0T32\\SQLEXPRESS; database=TiendaMusicaApp; Trusted_Connection=True; TrustServerCertificate=True;"
+     "conexion": "server=SERVER_NAME; database=TiendaMusicaApp; Trusted_Connection=True; TrustServerCertificate=True;"
      ```
    - Copiamos esta parte de código en nuestro `Programa.cs`:
 
