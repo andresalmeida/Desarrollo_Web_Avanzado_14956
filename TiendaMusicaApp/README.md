@@ -74,5 +74,5 @@ TiendaMusicaApp es una aplicación ASP .NET Core con Modelo Vista Controlador (M
 # IMPORTANTE
 ESTA VERSION DEL PROGRAMA ESTÁ DESACTUALIZADA, PUES PERTENECE A LA PRIMERA ENTREGA QUE FUE EL LUNES, 27 DE NOVIEMBRE A LAS 00:00. PARA ACCEDER A LA VERSIÓN FINAL DEL PROGRAMA:
 
-[TiendaMusica]([https://github.com/tu-usuario/tu-repositorio/tree/main/carpeta](https://github.com/andresalmeida/Desarrollo_Web_Avanzado_14956/tree/main/TiendaMusica)https://github.com/andresalmeida/Desarrollo_Web_Avanzado_14956/tree/main/TiendaMusica) - Contiene los últimos cambios.
+[TiendaMusica](https://github.com/andresalmeida/Desarrollo_Web_Avanzado_14956/tree/main/TiendaMusica) - Contiene los últimos cambios.
 
