@@ -51,7 +51,7 @@ TiendaMusicaApp es una aplicación ASP .NET Core con Modelo Vista Controlador (M
    - En la ventana de comandos de NuGet, ejecutar el comando siguiente (reemplazando `server=SERVER_NAME` con el nombre del servidor de tu PC):
 
      ```
-     Scaffold-DbContext "server=DESKTOP-9QK0T32\\SQLEXPRESS; database=TiendaMusica; Trusted_Connection=True; TrustServerCertificate=True;"
+     Scaffold-DbContext "server=SERVER_NAME; database=TiendaMusica; Trusted_Connection=True; TrustServerCertificate=True;"
      Microsoft.EntityFrameworkCore.SqlServer -OutPutDir Models
      ```
 
