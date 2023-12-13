@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Web Avanzada\Repositorio\Conjunta1P\Ejercicio345\bin\Debug\net7.0\Ejercicio345.exe
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Web Avanzada\Repositorio\Conjunta1P\Ejercicio345\bin\Debug\net7.0\Ejercicio345.deps.json
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Web Avanzada\Repositorio\Conjunta1P\Ejercicio345\bin\Debug\net7.0\Ejercicio345.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Web Avanzada\Repositorio\Conjunta1P\Ejercicio345\bin\Debug\net7.0\Ejercicio345.dll
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Web Avanzada\Repositorio\Conjunta1P\Ejercicio345\bin\Debug\net7.0\Ejercicio345.pdb
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Web Avanzada\Repositorio\Conjunta1P\Ejercicio345\obj\Debug\net7.0\Ejercicio345.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Web Avanzada\Repositorio\Conjunta1P\Ejercicio345\obj\Debug\net7.0\Ejercicio345.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Web Avanzada\Repositorio\Conjunta1P\Ejercicio345\obj\Debug\net7.0\Ejercicio345.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Web Avanzada\Repositorio\Conjunta1P\Ejercicio345\obj\Debug\net7.0\Ejercicio345.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Web Avanzada\Repositorio\Conjunta1P\Ejercicio345\obj\Debug\net7.0\Ejercicio345.dll
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Web Avanzada\Repositorio\Conjunta1P\Ejercicio345\obj\Debug\net7.0\refint\Ejercicio345.dll
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Web Avanzada\Repositorio\Conjunta1P\Ejercicio345\obj\Debug\net7.0\Ejercicio345.pdb
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Web Avanzada\Repositorio\Conjunta1P\Ejercicio345\obj\Debug\net7.0\Ejercicio345.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Web Avanzada\Repositorio\Conjunta1P\Ejercicio345\obj\Debug\net7.0\ref\Ejercicio345.dll
