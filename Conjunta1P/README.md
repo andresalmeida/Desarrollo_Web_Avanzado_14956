@@ -59,6 +59,20 @@ else
 }
 ```
 
+## Ejercicio 3, 4 & 5:  Programación Orientada a Objetos - Clases y Objetos, Métodos & Herencia
+
+
+En este ejercicio, se lleva a cabo lo siguiente:
+
+1. Creamos una clase: `Estudiante` con sus propiedades.
+2. Creamos un objeto de la clase: `estudiante1`.
+3. Creamos un método `MostrarInformacion`.
+4. Creamos una nueva clase llamada `EstudianteGraduado`.
+5. Añadimos una nueva propiedad llamada `Titulo`.
+6. Creamos un objeto de la clase: `graduado1`.
+7. Utilizamos el método `MostrarInformacion`.
+8. Imprimir el resultado en la consola.
+
 ## Ejecución del código
 ### Visual Studio
 Abre el proyecto en Visual Studio.
